@@ -15,6 +15,7 @@ function App() {
     let searchInput = useRef('')
 
     const API_URL = 'https://itunes.apple.com/search?term='
+    
 
     // useEffect(() => {
     //     if(search) {

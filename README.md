@@ -68,4 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # RR-music-library
+## Sources
+### waiting.gif GIF by <a href="https://pixabay.com/users/the_shire_hobbit-21148986/?utm_source=link-attribution&utm_medium=referral&utm_campaign=animation&utm_content=7579">The_Shire_Hobbit</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=animation&utm_content=7579">Pixabay</a>

@@ -41,7 +41,7 @@ function AlbumView() {
     return (
         <div>
             {navButtons()}
-            <h3>Songs on {albumData.length>0 ? <h2>{albumData[0].collectionName}</h2> : <h2>Loading ...</h2>}</h3>
+            <h3>Songs on</h3> {albumData.length>0 ? <h2>{albumData[0].collectionName}</h2> : <h2>Loading ...</h2>}
             {renderSongs}
         </div>
     )
